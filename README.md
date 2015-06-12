@@ -1,6 +1,6 @@
 vaalikone-lda
 ===================
-Tästä Github-repositorysta löytyy skriptejä joilla voidaan analysoida Ylen vuoden 2015 Vaalikone-vastausten avoimia kysymyksiä n.s. Latent Dirichlet Allocation-menetelmällä.
+Tästä Github-repositorysta löytyy skriptejä joilla voidaan analysoida Ylen vuoden 2015 Vaalikone-vastausten avoimia kysymyksiä n.s. Latent Dirichlet Allocation-menetelmällä. Lopullista visualisaatiota voi tarkastella [tästä](http://nbviewer.ipython.org/github/wallinm1/vaalikone-lda/blob/master/vaalikone_lda.ipynb) linkistä (Github ei ainakaan vielä renderaa interaktiivisia Jupyter notebookeja).
 
 ## Data
 Analyysin lähdedatana käytetään Ylen avoimeksi tekemää [Vaalikone-dataa](http://yle.fi/uutiset/yle_julkaisee_vaalikoneen_vastaukset_avoimena_datana/7869597).  Tästä datasta olen käyttänyt versiota joka löytyy [avoindata.fi-sivuilta](https://www.avoindata.fi/data/fi/dataset/eduskuntavaalien-2015-ylen-vaalikoneen-vastaukset-ja-ehdokkaiden-taustatiedot).
